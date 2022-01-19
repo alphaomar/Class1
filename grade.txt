@@ -1,3 +1,4 @@
 john     doe  90
 ami      cat  56
 peter    john 90
+omar     alpha 99
